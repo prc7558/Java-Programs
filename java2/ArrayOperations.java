@@ -108,5 +108,6 @@ public class ArrayOperations {
             System.out.print(" " + mergedArray[i]);
         }
         System.out.println();
+        sc.close();
     }
 }
